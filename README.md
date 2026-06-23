@@ -1,4 +1,5 @@
 # demo
 This is my first repository.
 <br>
-Author-Ishwarya Uppula
+Author-Ishwarya Software Engineering
+
